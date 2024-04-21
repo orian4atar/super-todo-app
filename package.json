@@ -1,0 +1,23 @@
+{
+  "name": "super-todo-app",
+  "version": "1.0.0",
+  "description": "Super TODO app",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orian4atar/super-todo-app.git"
+  },
+  "keywords": [
+    "todo",
+    "app"
+  ],
+  "author": "Oriana Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orian4atar/super-todo-app/issues"
+  },
+  "homepage": "https://github.com/orian4atar/super-todo-app#readme"
+}
