@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
+import './index.scss';
+
 const App: React.FC = () => {
   return <div><h1>Hello, world!</h1></div>;
 };
